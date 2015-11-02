@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  MainHotel
+
+  Created by iMac on 15-10-4.
+  Copyright (c) 2015年 ixp. All rights reserved.
+*/
+
+//tabbar
+"boutiqueHotel"     = "精品酒店";
+"threeKilometers"   = "三公里";
+"seeTheWorld"       = "看世界";
+
+//定位视图
+"useLocaction"      = "点击定位";
+
+//酒店详情
+"mapLocation"       = "地图导航";
+"hotelNearby"       = "酒店周边";
+
+"lightspotOfHotel"  = "点睛之处";
+"hotelFacilities"   = "酒店设施";
+"pricesInclude"     = "价格包含";
+
+"ft_bath"           = "浴室";
+"ft_carpark"        = "停车场";
+"ft_gym"            = "健身房";
+"ft_hair_dryer"     = "电吹风";
+"ft_laundry"        = "洗衣房";
+"ft_meal"           = "含早餐";
+"ft_pool"           = "游泳池";
+"ft_tv"             = "电视机";
+"ft_wifi"           = "无线WIFI";
+
+"cancelBtn" = "取消";
+"confirmBtn" = "拨打";
